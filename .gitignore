@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 tiktok/.DS_Store
 .DS_Store
+*.key
